@@ -102,7 +102,7 @@ If you are enrolled in this course through COF Cross Registration, notify your c
 | Week | Topic | Reading | Assignment & Notes |
 | :----: | :----- | ------- | ------------------ |
 | 1 | Fundamentals of Programming & Java SDLC | Ch. 1-8 | *Syllables* Overview |
-| 2 | Object-Oriented Programming | Ch. 9-10 | *Syllables* Due |
+| 2 | Object-Oriented Programming & Regex | Ch. 9-10 | *Syllables* Due |
 | 3 | Inheritance & Polymorphism | Ch. 11 | *Flesch-Kincaid* Due |
 | 4 | Abstract Classes, Interfaces | Ch. 13 | *Fractions* Due |
 | 5 | Exam 1 Review | Prepare exam notes | Exam 1 (2nd class) |
