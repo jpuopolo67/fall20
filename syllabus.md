@@ -108,7 +108,7 @@ If you are enrolled in this course through COF Cross Registration, notify your c
 | 5 | Exam 1 Review | Prepare exam notes | Exam 1 (2nd class) |
 | 6 | Lambdas, Java FX & GUI Basics | Ch. 14 | *Mastermind* project overview |
 | 7 | Generics, Collections | Ch. 19 | Game piece classes: *GameBoard*, *CodePeg* and *KeyPeg* |
-| 8 | Collections & Iterators| Ch. 20 | Add UI for options: number of guess rows, repeat colors allowed. Render board with various peg configurations. |
+| 8 | Collections & Iterators| Ch. 20 | Add UI for options (see project description). Render board with various peg configurations |
 | 9 | Queues, Sets, Maps | Ch. 20-21 | Add *CodeMaker* (computer) and *CodeBreaker* (human) |
 | 10 | Recursion | Ch. 18 | Add *Game* and options to start new game, save game, load game and quit |
 | 11 | Exam 2 Review | Prepare exam notes | Exam 2 (2nd class) |
