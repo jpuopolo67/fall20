@@ -107,15 +107,15 @@ If you are enrolled in this course through COF Cross Registration, notify your c
 | 4 | Abstract Classes, Interfaces | Ch. 13 | *Fractions* Due |
 | 5 | Exam 1 Review | Prepare exam notes | Exam 1 (2nd class) |
 | 6 | Lambdas, Java FX & GUI Basics | Ch. 14 | *Mastermind* project overview |
-| 7 | Generics, Collections | Ch. 19 | Game piece classes: *GameBoard*, *CodePeg* and *KeyPeg* |
-| 8 | Collections & Iterators| Ch. 20 | Add UI for options (see project description). Render board with various peg configurations |
-| 9 | Queues, Sets, Maps | Ch. 20-21 | Add *CodeMaker* (computer) and *CodeBreaker* (human) |
-| 10 | Recursion | Ch. 18 | Add *Game* and options to start new game, save game, load game and quit |
+| 7 | Generics, Collections | Ch. 19 | Core Game classes: *Game*, *GameBoard*, *CodePeg*, etc. |
+| 8 | Collections & Iterators| Ch. 20 | Add UI for configuration. Render board with various peg configurations. |
+| 9 | Queues, Sets, Maps | Ch. 20-21 | Add *CodeMaker* (computer) and *CodeBreaker* (human) classes. |
+| 10 | Recursion | Ch. 18 | Add Options to start new game, save game, load game and quit |
 | 11 | Exam 2 Review | Prepare exam notes | Exam 2 (2nd class) |
 | 12 | Basics of Functional Programming & Streams API | Class Notes | Implement game play |
-| 13 | Project Consulting | *None* | If not already done, try adding drag-and-drop for the pegs |
+| 13 | Project Consulting | *None* | Try adding drag-and-drop for the guess pegs |
 | 14 | Java Networking | *None* | EXTRA CREDIT: Be able to swap so that you are the *CodeMaker* and the computer is the *CodeBreaker* |
-| 15 | Project Consulting | *None* | EXTRA CREDIT: Add a server to that two people can play over the Internet |
+| 15 | Project Consulting | *None* | EXTRA CREDIT: Add a server so that two people can play over the Internet |
 
 
 
