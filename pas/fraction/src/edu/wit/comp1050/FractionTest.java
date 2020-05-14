@@ -4,6 +4,9 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Test class for the Fraction class
+ */
 class FractionTest {
 
     @Nested
