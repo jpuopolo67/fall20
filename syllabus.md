@@ -10,7 +10,7 @@ John Puopolo ("Mr. P")<br/>
 <puopoloj1@wit.edu>
 
 ## Class Schedule
-Class schedule here
+Class schedule here based on start/end dates
 
 ## Course Description
 This course is an advanced introduction to Computer Science. It focuses on Object-Oriented Programing (OOP). Topics include abstraction and encapsulation, classes and methods, objects and references, overloading, inheritance, polymorphism, interfaces, console/file input/output, dynamic data structures, generics, and GUI applications.
