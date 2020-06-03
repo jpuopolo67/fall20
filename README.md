@@ -4,7 +4,7 @@
 
 ## Course: COMP1050 - Fall 2020
 
-Last updated: 24-May-2020
+Last updated: 06-Jun-2020
 
 ## Instructor
 
