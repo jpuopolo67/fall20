@@ -108,15 +108,15 @@ If you are enrolled in this course through COF Cross Registration, notify your c
 | 3 | Inheritance & Polymorphism | Ch. 11 | *Flesch-Kincaid* Due |
 | 4 | Abstract Classes, Interfaces | Ch. 13 | *Fractions* Due |
 | 5 | Exam 1 Review | Prepare exam notes | Exam 1 (2nd class) |
-| 6 | Lambdas, Java FX & GUI Basics | Ch. 14 | *Mastermind* and *Cribbage* projects - overview |
+| 6 | Java FX & GUI Basics | Ch. 14 | *Mastermind* and *Cribbage* projects - overview |
 | 7 | Generics, Collections | Ch. 19 | Project work |
-| 8 | Collections & Iterators| Ch. 20 |  Project work |
+| 8 | Collections, Iterators & Lambdas | Ch. 20 |  Project work |
 | 9 | Queues, Sets, Maps | Ch. 20-21 | Project work |
 | 10 | Recursion | Ch. 18 | Project work|
 | 11 | Exam 2 Review | Prepare exam notes | Exam 2 (2nd class) |
 | 12 | Basics of Functional Programming & Streams API | Class Notes | Project work|
 | 13 | Project Consulting | *None* | Add options |
-| 14 | Java Networking | *None* | EXTRA CREDIT work |
+| 14 | Java Networking (Intro) | *None* | EXTRA CREDIT work |
 | 15 | Project Consulting | *None* | EXTRA CREDIT work |
 
 
