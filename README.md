@@ -101,24 +101,23 @@ Students requiring academic accommodations must provide an official accommodatio
 If you are enrolled in this course through COF Cross Registration, notify your course instructor. Please provide her/him with your email address to be sure that you receive course information in a timely way. You should also discuss how to access online applications that might be used in the course.
 
 ## Weekly Schedule
-| Week | Topic                                            | Reading            | Slides      | Assignment & Notes                                       |
-|------  |------------------------------------------------|--------------------|-------------|----------------------------------------------------------|
-| 1      | Fundamentals of Programming & Java SDLC        | Ch. 1-8            | Web site & syllabus      | *Syllables* Overview                        |
-| &nbsp; | &nbsp;                                         | &nbsp;             | java-history.pptx, 01slide.ppt-08slide.ppt, sdlc.pptx     | &nbsp;     |
-| 2      | Object-Oriented Programming & Regex            | Ch. 9-10           | slides      | *Syllables* Due                                          |
-| 3      | Inheritance & Polymorphism                     | Ch. 11             | slides      | *Flesch-Kincaid* Due                        |
-| 4      | Abstract Classes, Interfaces                   | Ch. 13             | slides      | *Fractions* Due                             |
-| 5      | Exam 1 Review                                  | Prepare exam notes | slides      | Exam 1 (2nd class)                          |
-| 6      | Java FX & GUI Basics                           | Ch. 14             | slides      | *Mastermind* & *Cribbage* Projects Overview |
-| 7      | Generics, Collections                          | Ch. 19             | slides      | Project work                                |
-| 8      | Collections, Iterators & Lambdas               | Ch. 20             | slides      | Project work                                |
-| 9      | Queues, Sets, Maps                             | Ch. 20-21          | slides      | Project work                                |
-| 10     | Recursion                                      | Ch. 18             | slides      | Project work                                |
-| 11     | Exam 2 Review                                  | Prepare exam notes | slides      | Exam 2 (2nd class)                          |
-| 12     | Basics of Functional Programming & Streams API | In-class Slides    | slides      | Project work                                |
-| 13     | Project Consulting                             | *None*             | slides      | Project work                                |
-| 14     | Java Networking (Intro)                        | *None*             | slides      | EXTRA CREDIT work                           |
-| 15     | Project Consulting                             | *None*             | slides      | EXTRA CREDIT work                           |
+| Week | Topic                                            | Reading            | Slides                                                                 | Assignment & Notes                                       |
+|------  |------------------------------------------------|--------------------|---------------------------------------------------------------------------------|-------------------------------------------------|
+| 1      | Fundamentals of Programming & Java SDLC        | Ch. 1-8            | Web site & syllabus, java-history, 01slide-08slide            | *Syllables* Overview                                     |
+| 2      | Object-Oriented Programming & Regex            | Ch. 9-10           | sdlc, 09slide, 10slide                                        | *Syllables* Due                                          |
+| 3      | Inheritance & Polymorphism                     | Ch. 11             | slides                                                                 | *Flesch-Kincaid* Overview                                |
+| 4      | Abstract Classes, Interfaces                   | Ch. 13             | slides                                                                 | *Flesch-Kincaid* Due                                     |
+| 5      | Exam 1 Review                                  | Prepare exam notes | slides                                                                 | *Fractions* Overview                                     |
+| 6      | Java FX & GUI Basics                           | Ch. 14             | slides                                                                 | *Fractions* Due                                          |
+| 7      | Generics, Collections                          | Ch. 19             | slides                                                                 | Projects Overview, Exam Prep (1st), Exam #1 (2nd)        |
+| 8      | Collections, Iterators & Lambdas               | Ch. 20             | slides                                                                 | Project work                                             |
+| 9      | Queues, Sets, Maps                             | Ch. 20-21          | slides                                                                 | Project work                                             |
+| 10     | Recursion                                      | Ch. 18             | slides                                                                 | Project work                                             |
+| 11     | Exam 2 Review                                  | Prepare exam notes | slides                                                                 | Exam Prep (1st), Exam #2 (2nd)                           |
+| 12     | Functional Programming & Streams API           | In-class Slides    | slides                                                                 | Project work                                             |
+| 13     | Project Consulting                             | *None*             | slides                                                                 | Project work                                             |
+| 14     | Java Networking (Intro)                        | *None*             | slides                                                                 | EXTRA CREDIT work                                        |
+| 15     | Project Consulting                             | *None*             | slides                                                                 | EXTRA CREDIT work                                        |
 
 
 
