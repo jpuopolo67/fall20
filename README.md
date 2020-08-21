@@ -103,8 +103,8 @@ If you are enrolled in this course through COF Cross Registration, notify your c
 ## Weekly Schedule
 | Week | Topic                                            | Reading            | Slides & Materials                                                     | Assignment & Notes                                       |
 |------  |------------------------------------------------|--------------------|------------------------------------------------------------------------|----------------------------------------------------------|
-| 1      | Fundamentals of Programming & Java SDLC        | Ch. 1-8            | Web site & syllabus, java-history, 01slide-08slide, Syllables PA       | *Syllables* Overview                                     |
-| 2      | Object-Oriented Programming & Regex            | Ch. 9-10           | sdlc, 09slide, 10slide, regex, regex-examples.txt, tools               | *Syllables* Due                                          |
+| 1      | Fundamentals of Programming & Java SDLC        | Ch. 1-8            | Web site & syllabus, java-history, 01slide-08slide, Syllables PA, Arrays example       | *Syllables* Overview                     |
+| 2      | Object-Oriented Programming & Regex            | Ch. 9-10           | sdlc, 09-10slide, regex, regex-examples.txt, tools                     | *Syllables* Due                                          |
 | 3      | Inheritance & Polymorphism                     | Ch. 11             | 11slide, file-io, Flesch-Kincaid PA                                    | *Flesch-Kincaid* Overview                                |
 | 4      | Abstract Classes, Interfaces                   | Ch. 13             | 13slide                                                                | *Flesch-Kincaid* Due                                     |
 | 5      | Exam 1 Review                                  | Prepare exam notes | Review, Fractions PA                                                   | *Fractions* Overview                                     |
