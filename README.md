@@ -4,15 +4,11 @@
 
 ## Course: COMP1050 - Fall 2020
 
-Last updated: 24-Jul-2020
 
 ## Instructor
-
 John Puopolo ("Mr. P")<br/>
-<puopoloj1@wit.edu>
+<puopoloj1@wit.edu> &nbsp; &nbsp; &nbsp; <<< best way to reach me
 
-## Class Schedule
-Class schedule here based on start/end dates
 
 ## Course Description
 This course is an advanced introduction to Computer Science. It focuses on Object-Oriented Programing (OOP). Topics include abstraction and encapsulation, classes and methods, objects and references, overloading, inheritance, polymorphism, interfaces, console/file input/output, dynamic data structures, generics, and GUI applications.
@@ -100,7 +96,8 @@ Students requiring academic accommodations must provide an official accommodatio
 ## College of the Fenway Students
 If you are enrolled in this course through COF Cross Registration, notify your course instructor. Please provide her/him with your email address to be sure that you receive course information in a timely way. You should also discuss how to access online applications that might be used in the course.
 
-## Weekly Schedule
+## Class Schedule
+[COMP1050 Fall 2020 Class Calendar (Google)](https://calendar.google.com/calendar?cid=OTA5YTlmb2Y5NTg3NjVoNzA3NWp1Z2Z2bDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 | Week | Topic                                            | Reading            | Slides & Materials                                                     | Assignment & Notes                                       |
 |------  |------------------------------------------------|--------------------|------------------------------------------------------------------------|----------------------------------------------------------|
 | 1      | Fundamentals of Programming & Java SDLC        | Ch. 1-8            | Web site & syllabus, java-history, 01slide-08slide, Arrays example     | *Syllables* Overview, *introductions* due                |
