@@ -11,7 +11,7 @@ John Puopolo ("Mr. P")<br/>
 
 
 ## Course Description
-This course is an advanced introduction to Computer Science. It focuses on object-oriented Programing (OOP). Topics include abstraction and encapsulation, classes and methods, objects and references, overloading, inheritance, polymorphism, interfaces, console/file input/output, dynamic data structures, generics, and GUI applications.
+This course is an advanced introduction to Computer Science. It focuses on object-oriented programing (OOP). Topics include abstraction and encapsulation, classes and methods, objects and references, overloading, inheritance, polymorphism, interfaces, console/file input/output, dynamic data structures, generics, and GUI applications.
 
 ## Course Prerequisities
 * COMP1000 Computer Science I
